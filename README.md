@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Zafar</h1>
 <h3 align="center">Budding Developer</h3>
+
+Hello everyone, my name is Zafar. I am 18 years old and yes I am a beginner programmer. In general, in the circle of IT people, I have not been very long, let's say ... 3-5 months. And so, to the point, I am very eager to quickly acquire knowledge, since I fell in love with programming very much. In the near future I see myself as a programmer in good company!
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarurakov&label=Profile%20views&color=0e75b6&style=flat" alt="zafarurakov" /> </p>
