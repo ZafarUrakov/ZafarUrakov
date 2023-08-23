@@ -21,7 +21,8 @@ Hello everyone, my name is Zafar. I am 18 years old and yes I am a beginner prog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zafar_urakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zafar_urakov" height="30" width="40" /></a>
+<a href="https://dev.to/zafarurakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zafarurakov" height="30" width="40" /></a>
+<a href="https://twitter.com/zafarurakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zafarurakov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
