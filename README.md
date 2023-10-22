@@ -1,9 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Zafar</h1>
-<h3 align="center">.Net Developer</h3>
-
-Hello everyone, my name is Zafar. I am 18 years old and yes I am a beginner programmer. In general, in the circle of IT people, I have not been very long, let's say ... 3-5 months. And so, to the point, I am very eager to quickly acquire knowledge, since I fell in love with programming very much. In the near future I see myself as a programmer in good company!
+<h3 align="center">.NET back-end developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,11 +11,11 @@ Hello everyone, my name is Zafar. I am 18 years old and yes I am a beginner prog
 
 - 🌱 I’m currently learning **Microsoft**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZafarUrakov](https://github.com/ZafarUrakov)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/ZafarUrakov)
 
 - 📫 How to reach me **ZafarUrakov@outlook.com**
 
-- ⚡ Fun fact **I think I am ambitious👀**
+- ⚡ Fun fact: **The first programming language was called FORTRAN 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
